@@ -1,6 +1,6 @@
 # Codes for "Predicting High Exposure of Per- and Polyfluoroalkyl Substances (PFASs) in Korean Adults Using Machine Learning"
 
-## Structure
+## Code structure
 - The functions of each code are listed below.
 - It is recommended to run the code in the following order.
 
@@ -30,3 +30,7 @@
    - Import SHAP values
    - Draw the summary plot for SHAP
    - Draw the partial dependence plot
+
+## Data
+   - Note that the original dataset is publicly accessible by applying to the official system homepage of the Ministry of Environment of the Republic of Korea (https://www.ehtis.or.kr/).
+   - Due to the copyright, the repository does not include the data.
